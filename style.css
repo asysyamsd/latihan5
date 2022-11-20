@@ -1,0 +1,29 @@
+.jumbotron {
+    background-color: rgb(206, 250, 149);
+}
+
+.jumbotron img {
+    width: 200px;
+    border: 1px solid rgb(253, 146, 7);
+    background: rgb(243, 212, 72);
+}
+
+.bg-light img {
+    width: 200px;
+    border: 1px solid rgb(253, 146, 7);
+}
+
+.bg-light h1 {
+    font-size: 64px;
+}
+
+.about hr {
+    width: 120px;
+    border-top: 2px solid rgb(231, 8 , 8);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    min-height: 550px;
+}
